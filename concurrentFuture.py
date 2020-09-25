@@ -14,8 +14,7 @@ time1=time.time()
 
 sum(1,10000000)
 sum(1,10000000)
-
-print()    
+ 
 print("병렬 처리 시간:")
 time1=time.time()
 

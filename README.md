@@ -1,6 +1,8 @@
 # PythonThread
 concurrent.future 파이썬 멀티 쓰레딩
 
+https://docs.python.org/3/library/concurrent.futures.html
+
 ### concurrent.future
     
     직렬 처리 시간:

@@ -7,6 +7,7 @@ def sum(a,b):
         total = total + i
     print(time.time()-time1)
     return total
+
 print("직렬 처리 시간:")
 
 time1=time.time()
